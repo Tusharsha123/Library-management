@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f7fa;
+}
+.card {
+    border-radius: 0.8rem;
+}
+.form-control, .form-select {
+    border-radius: 0.45rem;
+}
+.table-responsive {
+    overflow-x: auto;
+}
+@media print {
+    .no-print {
+        display: none !important;
+    }
+    .navbar, .footer, .btn {
+        display: none !important;
+    }
+    body {
+        background-color: #fff;
+    }
+}
