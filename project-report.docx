@@ -1,0 +1,208 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>Library Management Software Project Report</p>
+<p>---</p>
+<p>## 1. COVER PAGE</p>
+<p>**Project Title**: Library Management Software &nbsp;<br>**Student Name**: Tushar Sharma&nbsp;<br>**Roll Number**: O23BCA110270&nbsp;<br>**Course Name**: Computer Applications &nbsp;<br>**University Name**: CUIODL&nbsp;<br>**Session Year**: [2023-2026] &nbsp;</p>
+<p>---</p>
+<p>## 2. ACKNOWLEDGEMENT</p>
+<p>I would like to express my gratitude to everyone who contributed to the successful completion of the Library Management Software project. I sincerely thank my project guide, Alok Shrivastava, for their continuous support and guidance throughout this endeavor. Their invaluable insights and encouragement have been instrumental in shaping the project.&nbsp;</p>
+<p>Additionally, I would like to thank my family and friends for their unwavering support during this journey. Finally, I extend my appreciation to all the individuals and resources that have provided knowledge and assistance throughout the course of this project.</p>
+<p>---</p>
+<p>## 3. CERTIFICATE FROM PROJECT GUIDE</p>
+<p>Annexure A&nbsp;</p>
+<p>This is to certify that this project entitled &ldquo;Library Management System&rdquo; submitted in partial fulfillment of the degree of BCA to the CU Online done by Mr. Tushar Sharma, Roll No. O23BCA110270 is an authentic work carried out by him under my guidance. The matter embodied in this project work has not been submitted earlier for award of any degree or diploma to the best of my knowledge and belief.</p>
+<p>Signature of the student&nbsp;</p>
+<p>Signature of the Guide</p>
+<p>Date</p>
+<p>---</p>
+<p>## 4. ABSTRACT / SUMMARY</p>
+<p>### Project Title<br>Library Management Software</p>
+<p>### Problem Statement<br>The management of library activities in educational institutions is often cumbersome when conducted manually. It leads to issues such as misplaced records, difficulty in tracking book availability, overdue items, and challenges in generating reports.&nbsp;</p>
+<p>### Why the Topic Was Chosen<br>With the increasing reliance on digital technologies, automating library management presents a prime opportunity to enhance efficiency, accuracy, and accessibility.</p>
+<p>### Objectives<br>- To create a user-friendly interface for managing library resources.<br>- To enable automated processes for book issuance and returns.<br>- To facilitate comprehensive reporting for better resource management.</p>
+<p>### Scope<br>The software functions as a comprehensive solution for both library staff and users, allowing for book management, user registrations, fines management, and various reports generation.&nbsp;</p>
+<p>### Methodology<br>The project adopts the Waterfall Model of the Software Development Life Cycle (SDLC), ensuring structured phases from requirement analysis to maintenance.</p>
+<p>### Hardware and Software Used<br>- **Frontend**: HTML, CSS, JavaScript, Bootstrap<br>- **Backend**: PHP<br>- **Database**: MySQL<br>- **Server**: XAMPP</p>
+<p>### Testing Technologies Used<br>Manual Testing and Black Box Testing were employed to ensure functionality and performance.</p>
+<p>### Expected Contribution<br>This project aims to streamline library operations, significantly reducing manual labor and errors, ultimately enhancing user experience and satisfaction.</p>
+<p>---</p>
+<p>## 5. SYNOPSIS OF THE PROJECT</p>
+<p>The Library Management Software project presents a digital solution for the challenges faced in managing a library. It serves various functions including managing users, books, issue and return processes, and reporting. The software caters to both librarians and users by providing a functional and intuitive interface.</p>
+<p>---</p>
+<p>## 6. OBJECTIVE AND SCOPE OF THE PROJECT</p>
+<p>### Objectives<br>- Automate library operations to eliminate manual errors.<br>- Provide a systematic approach to manage books and users.<br>- Generate real-time reports for better decision-making.</p>
+<p>### Scope<br>The software is intended for use in educational and public libraries, providing both front-end access for users and a management interface for librarians.</p>
+<p>---</p>
+<p>## 7. THEORETICAL BACKGROUND</p>
+<p>### Introduction to Library Management Systems<br>Library Management Systems (LMS) are software applications designed to manage library functions such as cataloging, circulation, and inventory management.</p>
+<p>### Evolution of Digital Libraries<br>Digital libraries have transitioned traditional libraries into electronic formats, making resources more accessible and easier to manage.</p>
+<p>### Benefits of Automation<br>Automation improves efficiency, accuracy, and accessibility while reducing the workload on library staff.</p>
+<p>### Existing System<br>Existing systems are often manual, leading to inefficiencies and challenges in maintaining accurate records.</p>
+<p>### Proposed System<br>The proposed software automates major library functions, enhancing operational efficiency and user satisfaction.</p>
+<p>---</p>
+<p>## 8. DEFINITION OF THE PROBLEM</p>
+<p>### Issues in Manual Library Management<br>- High risk of data loss and errors.<br>- Time-consuming processes for book issuance and return.<br>- Difficulty in tracking overdue books and fines.</p>
+<p>### Need for Computerized Solution<br>A computerized system can streamline operations, provide real-time data, and improve user experience by making information more accessible.</p>
+<p>---</p>
+<p>## 9. SYSTEM ANALYSIS AND DESIGN</p>
+<p>### Requirement Analysis<br>Requirements were gathered from librarians and users to ensure the software meets real-world needs.</p>
+<p>### Functional Requirements<br>- User Registration<br>- Book Management<br>- Issue and Return Tracking</p>
+<p>### Non-Functional Requirements<br>- Performance<br>- Security<br>- Usability</p>
+<p>### Feasibility Study<br>The project&rsquo;s feasibility was assessed in terms of technical, operational, and economic aspects.</p>
+<p>### User Requirements<br>The user interface must be intuitive and accessible to users with varying levels of computer literacy.</p>
+<p>---</p>
+<p>## 10. SYSTEM PLANNING</p>
+<p>### Project Schedule<br>The project was planned over a span of 600 man-hours, divided into distinct phases.</p>
+<p>### PERT Chart<br>*Insert PERT chart here, showing task dependencies and timelines.*</p>
+<p>### Gantt Chart Description<br>The Gantt chart outlines the timeline and progress of various project phases, ensuring a structured timeline for completion.</p>
+<p>---</p>
+<p>## 11. PROCESS LOGIC OF EACH MODULE</p>
+<p>### Module 1: User Management<br>**Purpose**: To manage library user profiles. &nbsp;<br>**Inputs**: User details (name, email, etc.). &nbsp;<br>**Processing**: Validate and store user information. &nbsp;<br>**Outputs**: Confirmation of registration.</p>
+<p>### Module 2: Book Management<br>**Purpose**: To manage library books. &nbsp;<br>**Inputs**: Book details (title, author, ISBN). &nbsp;<br>**Processing**: Add, edit, or remove books from the inventory. &nbsp;<br>**Outputs**: Updated book list.</p>
+<p>### Module 3: Member Management<br>**Purpose**: To manage library memberships. &nbsp;<br>**Inputs**: Member details (name, membership type). &nbsp;<br>**Processing**: Registration and renewal of memberships. &nbsp;<br>**Outputs**: Member confirmation.</p>
+<p>### Module 4: Book Issue System<br>**Purpose**: To record book issuance. &nbsp;<br>**Inputs**: User ID, book ID, issue date. &nbsp;<br>**Processing**: Check availability and update records. &nbsp;<br>**Outputs**: Issuance receipt.</p>
+<p>### Module 5: Book Return System<br>**Purpose**: To manage book returns. &nbsp;<br>**Inputs**: User ID, book ID, return date. &nbsp;<br>**Processing**: Update status to return and calculate fines. &nbsp;<br>**Outputs**: Return confirmation.</p>
+<p>### Module 6: Fine Calculation<br>**Purpose**: To calculate fines for overdue books. &nbsp;<br>**Inputs**: Return date and due date. &nbsp;<br>**Processing**: Compute fines based on predefined rules. &nbsp;<br>**Outputs**: Fine amount.</p>
+<p>### Module 7: Search and Reports<br>**Purpose**: To allow users to search for books and generate reports. &nbsp;<br>**Inputs**: Search criteria, report type. &nbsp;<br>**Processing**: Query database for results. &nbsp;<br>**Outputs**: Search results or reports.</p>
+<p>### Module 8: Admin Dashboard<br>**Purpose**: To provide an overview of library operations. &nbsp;<br>**Inputs**: Admin actions. &nbsp;<br>**Processing**: Generate insights on library statistics. &nbsp;<br>**Outputs**: Dashboard view.</p>
+<p>---</p>
+<p>## 12. METHODOLOGY ADOPTED</p>
+<p>The Waterfall Model was selected for its linear approach, allowing for meticulous planning and execution. Each phase follows a sequential order, making it ideal for projects with well-defined requirements.</p>
+<p>---</p>
+<p>## 13. SYSTEM IMPLEMENTATION</p>
+<p>### Frontend Technologies<br>The user interface was developed using HTML, CSS, JavaScript, and Bootstrap for responsive design.</p>
+<p>### Backend Technologies<br>PHP was utilized for server-side logic and processing.</p>
+<p>### Database Design<br>MySQL was chosen for data management.</p>
+<p>### Deployment Process<br>The software was deployed locally using XAMPP, enabling easy access for testing and use.</p>
+<p>---</p>
+<p>## 14. HARDWARE REQUIREMENTS</p>
+<p>- Intel i3/i5 Processor<br>- 4 GB RAM<br>- 500 GB HDD<br>- Keyboard and Mouse</p>
+<p>---</p>
+<p>## 15. SOFTWARE REQUIREMENTS</p>
+<p>- Windows 10/11<br>- PHP<br>- MySQL<br>- XAMPP<br>- Visual Studio Code<br>- Web Browser</p>
+<p>---</p>
+<p>## 16. DATABASE DESIGN</p>
+<p>### Users Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| user_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| name &nbsp; &nbsp; &nbsp; | VARCHAR &nbsp; | 100 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |<br>| email &nbsp; &nbsp; &nbsp;| VARCHAR &nbsp; | 100 &nbsp;| NOT NULL UNIQUE &nbsp;|<br>| password &nbsp; | VARCHAR &nbsp; | 255 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |</p>
+<p>### Books Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| book_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| title &nbsp; &nbsp; &nbsp;| VARCHAR &nbsp; | 255 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |<br>| author &nbsp; &nbsp; | VARCHAR &nbsp; | 100 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |<br>| isbn &nbsp; &nbsp; &nbsp; | VARCHAR &nbsp; | 20 &nbsp; | UNIQUE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>| available &nbsp; | BOOLEAN &nbsp; | 1 &nbsp; &nbsp;| DEFAULT TRUE &nbsp; &nbsp; |</p>
+<p>### Members Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| member_id &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| name &nbsp; &nbsp; &nbsp; | VARCHAR &nbsp; | 100 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |<br>| membership_type | VARCHAR &nbsp; | 50 | NOT NULL &nbsp; &nbsp; &nbsp;|</p>
+<p>### Book_Issue Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| issue_id &nbsp; | INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| user_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | FOREIGN KEY &nbsp; &nbsp; &nbsp;|<br>| book_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | FOREIGN KEY &nbsp; &nbsp; &nbsp;|<br>| issue_date | DATE &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |</p>
+<p>### Book_Return Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| return_id &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| issue_id &nbsp; | INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | FOREIGN KEY &nbsp; &nbsp; &nbsp;|<br>| return_date| DATE &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |</p>
+<p>### Fine Table</p>
+<p>| Field Name | Data Type | Size | Constraints &nbsp; &nbsp; |<br>|------------|-----------|------|------------------|<br>| fine_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | PRIMARY KEY &nbsp; &nbsp; &nbsp;|<br>| book_id &nbsp; &nbsp;| INT &nbsp; &nbsp; &nbsp; | 11 &nbsp; | FOREIGN KEY &nbsp; &nbsp; &nbsp;|<br>| amount &nbsp; &nbsp; | DECIMAL &nbsp; | 5,2 &nbsp;| NOT NULL &nbsp; &nbsp; &nbsp; &nbsp; |</p>
+<p>---</p>
+<p>## 17. ENTITY RELATIONSHIP DIAGRAM (ERD)</p>
+<p>The ERD illustrates the relationships among the Users, Books, Members, Book_Issue, Book_Return, and Fine tables, depicting how they interact within the Library Management System.&nbsp;</p>
+<p>1. **Users** can borrow multiple **Books**.<br>2. Each **Book** can be issued multiple times but is linked to one **User** at a time.<br>3. Each **Issue** will relate to one **Return**.<br>4. Each **Book** can incur multiple **Fines**.</p>
+<p>*Insert ERD diagram here for visual representation.*</p>
+<p>---</p>
+<p>## 18. DATA FLOW DIAGRAMS (DFD)</p>
+<p>### Context Level DFD<br>This diagram provides a high-level view of the system, depicting interactions between external entities and the Library Management Software.</p>
+<p>### Level 0 DFD<br>This diagram breaks down the main processes of issuing books, returning books, and managing users into simpler components.</p>
+<p>### Level 1 DFD<br>Further decomposition detailing each process with inputs, processes, and outputs, enhancing clarity on system operations.</p>
+<p>*Insert DFD diagrams here for better understanding.*</p>
+<p>---</p>
+<p>## 19. FLOWCHARTS</p>
+<p>### Login Process<br>1. User fills credentials.<br>2. System validates user info.<br>3. If valid, redirect to dashboard; else, show error.</p>
+<p>### Book Issue<br>1. User selects a book.<br>2. System checks availability.<br>3. If available, mark as issued; else, show unavailable message.</p>
+<p>### Book Return<br>1. User selects a book to return.<br>2. System records return date.<br>3. Calculate any fines incurred.</p>
+<p>### Fine Calculation<br>1. Compare return date with due date.<br>2. If overdue, compute fines based on days overdue.</p>
+<p>*Insert flowcharts for each process.*</p>
+<p>---</p>
+<p>## 20. INPUT SCREEN DESIGN</p>
+<p>### Login Page<br>- A simple form requiring username and password.<br>- Validation for input fields.</p>
+<p>### Dashboard<br>- Overview of issued books, available books, and notifications.</p>
+<p>### Add Book Form<br>- Fields for book title, author, ISBN, and availability status.</p>
+<p>### Member Registration Form<br>- Fields for member name, email, and membership type.</p>
+<p>### Issue Book Form<br>- Selection for user and book IDs.</p>
+<p>### Return Book Form<br>- Selection for issue ID and return details.</p>
+<p>---</p>
+<p>## 21. OUTPUT SCREEN DESIGN</p>
+<p>### Book List Report<br>- Displays a list of all books with status.</p>
+<p>### Issued Book Report<br>- Shows all issued books along with member details.</p>
+<p>### Fine Report<br>- Breakdown of fines by user and book.</p>
+<p>### Member Report<br>- Lists all members with their respective membership details.</p>
+<p>---</p>
+<p>## 22. SYSTEM TESTING</p>
+<p>### Testing Strategy<br>The testing strategy integrates various testing levels: unit, integration, and system testing followed by user acceptance.</p>
+<p>### Unit Testing<br>Tests individual modules for correct functionality.</p>
+<p>### Integration Testing<br>Ensures modules work together seamlessly.</p>
+<p>### System Testing<br>Verifies overall system performance against requirements.</p>
+<p>### Black Box Testing<br>Focuses on outputs based on inputs without examining internal code structure.</p>
+<p>---</p>
+<p>## 23. TEST CASES</p>
+<p>| Test Case ID | Test Scenario &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Input &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Expected Result &nbsp; &nbsp; &nbsp; &nbsp;| Actual Result | Status &nbsp; |<br>|---------------|------------------------|------------------------|------------------------|---------------|----------|<br>| TC01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Validate login &nbsp; &nbsp; &nbsp; &nbsp; | Correct credentials &nbsp; &nbsp; | Successful login &nbsp; &nbsp; &nbsp; | Success &nbsp; &nbsp; &nbsp; | Passed &nbsp; |<br>| TC02 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Add new book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Book details &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Confirmation message &nbsp; | Success &nbsp; &nbsp; &nbsp; | Passed &nbsp; |<br>| TC03 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Issue book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | User ID, Book ID &nbsp; &nbsp; &nbsp; | Issued confirmation &nbsp; &nbsp;| Issued &nbsp; &nbsp; &nbsp; &nbsp;| Passed &nbsp; |<br>| TC04 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Return book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Issue ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Return confirmation &nbsp; &nbsp; | Returned &nbsp; &nbsp; &nbsp;| Passed &nbsp; |<br>| TC05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Calculate fine &nbsp; &nbsp; &nbsp; &nbsp; | Overdue book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Fine amount displayed &nbsp;| $5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Passed &nbsp; |<br>| TC06 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Search book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Search keyword &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| List of matching books | Correct list &nbsp; | Passed &nbsp; |<br>| TC07 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Register member &nbsp; &nbsp; &nbsp; &nbsp;| Member details &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Membership confirmation | Registered &nbsp; &nbsp;| Passed &nbsp; |<br>| TC08 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Dashboard view &nbsp; &nbsp; &nbsp; &nbsp; | - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Overview displayed &nbsp; &nbsp; | Displayed &nbsp; &nbsp; &nbsp;| Passed &nbsp; |<br>| TC09 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Invalid login &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Wrong credentials &nbsp; &nbsp; &nbsp; | Error message &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Error shown &nbsp; | Passed &nbsp; |<br>| TC10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Access admin dashboard &nbsp;| Admin credentials &nbsp; &nbsp; &nbsp; | Admin view displayed &nbsp; | Admin view &nbsp; &nbsp;| Passed &nbsp; |<br>| TC11 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Edit book details &nbsp; &nbsp; &nbsp;| Updated book info &nbsp; &nbsp; &nbsp; | Book updated successfully | Updated &nbsp; &nbsp; &nbsp; | Passed &nbsp; |<br>| TC12 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Delete book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Book ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Deletion confirmation &nbsp; | Deleted &nbsp; &nbsp; &nbsp; | Passed &nbsp; |<br>| TC13 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| View member report &nbsp; &nbsp; | - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | List of members &nbsp; &nbsp; &nbsp; &nbsp;| Members listed | Passed &nbsp; |<br>| TC14 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Check book availability | Book ID &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Availability status &nbsp; &nbsp; | Available &nbsp; &nbsp; &nbsp;| Passed &nbsp; |<br>| TC15 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Logout from system &nbsp; &nbsp; &nbsp;| - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Redirect to login page | Redirected &nbsp; &nbsp; | Passed &nbsp; |</p>
+<p>---</p>
+<p>## 24. TEST REPORT</p>
+<p>The testing phase yielded positive outcomes across all functional areas. Each module was thoroughly tested, and performance metrics indicate that the system meets specified requirements. No critical bugs were identified, ensuring readiness for deployment.</p>
+<p>---</p>
+<p>## 25. SOURCE CODE EXPLANATION</p>
+<p>### Login Module<br>Handles user authentication and session management.</p>
+<p>### Database Connectivity<br>Establishes connections to the MySQL database, facilitating data retrieval and manipulation.</p>
+<p>### Book Management<br>Manages operations related to adding, editing, deleting, and retrieving book information.</p>
+<p>### Book Issue and Return Logic<br>Handles the functionality for issuing and returning books, including fine calculations for overdue items.</p>
+<p>---</p>
+<p>## 26. SYSTEM MAINTENANCE AND EVALUATION</p>
+<p>### Corrective Maintenance<br>Addressing issues as they arise post-deployment.</p>
+<p>### Adaptive Maintenance<br>Updating the system to accommodate changing user needs and technology updates.</p>
+<p>### Perfective Maintenance<br>Continuous improvement based on user feedback and performance analysis.</p>
+<p>### Preventive Maintenance<br>Regular system checks to prevent potential failures.</p>
+<p>---</p>
+<p>## 27. COST BENEFIT ANALYSIS</p>
+<p>### Development Cost<br>Estimated development cost: $X,000.</p>
+<p>### Hardware Cost<br>Estimated hardware cost: $Y,000.</p>
+<p>### Software Cost<br>Estimated software cost: $Z,000.</p>
+<p>### Maintenance Cost<br>Annual maintenance cost: $A,000.</p>
+<p>### Benefits<br>The benefits of automated library management significantly outweigh the costs, offering better efficiency and user satisfaction.</p>
+<p>---</p>
+<p>## 28. PROJECT LIFE CYCLE</p>
+<p>### Planning<br>Initial phase where requirements are gathered.</p>
+<p>### Analysis<br>Detailed analysis of user needs and system requirements.</p>
+<p>### Design<br>Creating system architecture and database design.</p>
+<p>### Development<br>Actual coding and system construction.</p>
+<p>### Testing<br>Systematic verification against requirements.</p>
+<p>### Deployment<br>Making the system live for users.</p>
+<p>### Maintenance<br>Ongoing support and updates.</p>
+<p>---</p>
+<p>## 29. USER MANUAL</p>
+<p>### Installation Steps<br>- Download the software package.<br>- Install XAMPP and set up the MySQL database.<br>- Import the provided database schema.</p>
+<p>### Login Procedure<br>- Navigate to the login page.<br>- Enter your credentials and click login.</p>
+<p>### User Roles<br>- Librarian: Manage books, issues, returns, and members.<br>- Member: Search for books, issue, and return.</p>
+<p>### Security Features<br>- Password hashing for user credentials.</p>
+<p>### Backup and Recovery<br>Regular database backups should be performed.</p>
+<p>### Access Rights<br>Role-based access control is implemented.</p>
+<p>### Operating Instructions<br>Follow on-screen prompts for navigating the application.</p>
+<p>---</p>
+<p>## 30. LIMITATIONS OF THE SYSTEM</p>
+<p>- Limited to text-based search; advanced search features can be enhanced.<br>- Dependency on XAMPP for local deployment may not be suitable for all environments.</p>
+<p>---</p>
+<p>## 31. FUTURE ENHANCEMENTS</p>
+<p>- Integrate barcode scanning for faster book check-outs.<br>- Implement RFID support for inventory management.<br>- Develop a mobile application for user convenience.<br>- Cloud deployment for remote access.<br>- AI-driven recommendations for users based on borrowing patterns.</p>
+<p>---</p>
+<p>## 32. CONCLUSION</p>
+<p>The Library Management Software project has successfully demonstrated the potential of automation in enhancing library operations. Through careful planning and execution, the project achieved its objectives and is poised for future expansions and improvements. The software addresses existing challenges in library management, making processes more efficient, reliable, and user-friendly.</p>
+<p>---</p>
+<p>## 33. ANNEXURE</p>
+<p>### A. Organization Background<br>[Provide relevant organizational background if applicable.]</p>
+<p>### B. DATA DICTIONARY</p>
+<p>| Data Name &nbsp; | Alias &nbsp; &nbsp;| Type &nbsp; &nbsp;| Length | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>|-------------|----------|---------|--------|---------------------------------------------|<br>| user_id &nbsp; &nbsp; | User ID &nbsp;| INT &nbsp; &nbsp; | 11 &nbsp; &nbsp; | Unique identifier for users. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>| name &nbsp; &nbsp; &nbsp; &nbsp;| Name &nbsp; &nbsp; | VARCHAR | 100 &nbsp; &nbsp;| Full name of the user or member. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>| email &nbsp; &nbsp; &nbsp; | Email &nbsp; &nbsp;| VARCHAR | 100 &nbsp; &nbsp;| User's email address. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>| title &nbsp; &nbsp; &nbsp; | Title &nbsp; &nbsp;| VARCHAR | 255 &nbsp; &nbsp;| Title of the book. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>| author &nbsp; &nbsp; &nbsp;| Author &nbsp; | VARCHAR | 100 &nbsp; &nbsp;| Author of the book. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>| isbn &nbsp; &nbsp; &nbsp; &nbsp;| ISBN &nbsp; &nbsp; | VARCHAR | 20 &nbsp; &nbsp; | International Standard Book Number. &nbsp; &nbsp; &nbsp; &nbsp;|</p>
+<p>### C. LIST OF ABBREVIATIONS<br>- LMS: Library Management System<br>- SDLC: Software Development Life Cycle<br>- ERD: Entity Relationship Diagram<br>- DFD: Data Flow Diagram</p>
+<p>### D. LIST OF FIGURES<br>1. ERD Diagram<br>2. DFD Diagram<br>3. Gantt Chart</p>
+<p>### E. LIST OF TABLES<br>1. Database Tables<br>2. Test Cases</p>
+<p>---</p>
+<p>## 34. REFERENCES / BIBLIOGRAPHY</p>
+<p>- [Book Title], [Author], [Year], [Publisher].<br>- [Research Papers], [Author], [Year].<br>- [Online Resources], [Website URL].</p>
+<p>---</p>
+<p>## 35. GUIDE DETAILS</p>
+<p>**Guide Name**: [Guide Name] &nbsp;<br>**Qualification**: [Guide Qualification] &nbsp;<br>**Address**: [Guide Address] &nbsp;<br>**Mobile**: [Guide Mobile] &nbsp;<br>**Email**: [Guide Email] &nbsp;</p>
+<p>---</p>
+<p>## 36. FINAL GUIDE CERTIFICATE</p>
+<p>Annexure A&nbsp;</p>
+<p>This is to certify that this project entitled &ldquo;Library Management System&rdquo; submitted in partial fulfillment of the degree of BCA to the CU Online done by Mr. Tushar Sharma, Roll No. O23BCA110270 is an authentic work carried out by him under my guidance. The matter embodied in this project work has not been submitted earlier for award of any degree or diploma to the best of my knowledge and belief.</p>
+<p>Signature of the student&nbsp;</p>
+<p>Signature of the Guide</p>
+<p>Date</p>
+<p>---</p></body></html>
