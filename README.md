@@ -18,7 +18,7 @@ A complete Library Management System built with PHP, MySQL, HTML, CSS, JavaScrip
 2. Place this project folder inside `htdocs` (for example `C:\xampp\htdocs\library-management`).
 3. Import `database/library_management.sql` into MySQL using phpMyAdmin or the MySQL command line.
 4. Update `config/db.php` if your MySQL username, password, or database name are different.
-5. Open `http://localhost/library-management/` in your browser.
+5. Open `http://localhost/library-management-main/` in your browser. 
 
 ## Default Admin Credentials
 
